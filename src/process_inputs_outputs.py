@@ -98,7 +98,7 @@ def get_CRVDB_sigs():
     function to get the processed reference virus database (with viral signatures)
     '''
     dir = os.getcwd()
-    taxo_numkmers_sigs = pd.read_csv("{}/database/example_processedDB_local.txt".format(dir), sep="\t")
+    taxo_numkmers_sigs = pd.read_csv("{}/database/example_processedDB.txt".format(dir), sep="\t")
     
     return taxo_numkmers_sigs
 
