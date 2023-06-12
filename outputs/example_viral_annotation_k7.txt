@@ -1,0 +1,20 @@
+	genbank_id	description	taxonomy_name
+147	DQ136146.1	Tomato chlorosis virus isolate AT80/99 segment RNA2, complete sequence.	Tomato chlorosis virus
+213	KX926428.1	Watermelon mosaic virus isolate WMV-Pg, complete genome.	Watermelon mosaic virus
+301	KU754522.2	Lye Green virus isolate Dobs_PoolSeq4 VP1, VP2, VP3, putative glycoprotein, and putative polymerase genes, complete cds.	Lye Green virus
+318	KU754539.1	Boutonnet virus putative polyprotein and hypothetical protein genes, complete cds.	Boutonnet virus
+324	KU756226.1	Bovine viral diarrhea virus 1b strain HJ-1 polyprotein gene, complete cds.	Bovine viral diarrhea virus 1b
+474	KJ659367.1	Eastern equine encephalitis virus strain EEEV/Culicidae/USA/2999/2005, partial genome.	Eastern equine encephalitis virus
+477	KJ659490.1	Human parechovirus 3 strain BJ-C3174, complete genome.	Human parechovirus 3
+478	KJ659491.1	Human parechovirus 1 strain BJ-37359, complete genome.	Human parechovirus 1
+634	MN737181.1	Echovirus E18 strain QD5-C/SD/CHN/2019 polyprotein gene, complete cds.	Echovirus E18
+1062	MG912589.1	Measles virus genotype C2 nucleoprotein (N), P/V/C protein (P/V/C), matrix protein (M), fusion protein (F), hemagglutinin (H), and L protein (L) genes, complete cds.	Measles virus genotype C2
+1063	MG912591.1	Measles virus genotype G2 nucleoprotein (N), P/V/C protein (P/V/C), matrix protein (M), fusion protein (F), hemagglutinin (H), and L protein (L) genes, complete cds.	Measles virus genotype G2
+1064	MG912609.1	Middle East respiratory syndrome-related coronavirus strain Hu/Riyadh-KSA-7275/2017, partial genome.	Middle East respiratory syndrome-related coronavirus
+1075	MG913340.1	Foot-and-mouth disease virus A isolate ALG/1/2017, complete genome.	Foot-and-mouth disease virus A
+1076	MG913342.1	Avian coronavirus isolate AvCoV/Gallus gallus/Brazil/sample 38/2013 GI-11, complete genome, complete genome.	Avian coronavirus
+1892	KP900891.1	Macrophomina phaseolina double-stranded RNA virus 2 isolate Mp3 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds.	Macrophomina phaseolina double-stranded RNA virus 2
+1894	KP900893.1	Macrophomina phaseolina hypovirus 1 isolate Mp2003b RNA-dependent RNA polymerase gene, partial cds.	Macrophomina phaseolina hypovirus 1
+1898	KP900897.2	Macrophomina phaseolina tobamo-like virus 1a isolate Mp2003c RNA-dependent RNA polymerase and methyl transferase genes, partial cds; and movement protein and coat protein genes, complete cds.	Macrophomina phaseolina tobamo-like virus 1a
+2287	KC481679.1	Ilheus virus strain BrMS-MQ10, complete genome.	Ilheus virus
+2488	LC386152.1	Porcine teschovirus 1 JPN/Ishi-Im7/2016/G1 genomic RNA, nearly complete genome.	teschovirus A1
