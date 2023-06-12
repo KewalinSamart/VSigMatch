@@ -29,9 +29,9 @@ jobs:
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: execute workflow script with all arguments
-        python3 run_workflow.py --METAfastq inputs/sampled25_SRR23022001.fastq --kmer 5 --topN 20 -output_dir outputs
+        python3 run_VSigMatch.py --METAfastq inputs/sampled25_SRR23022001.fastq --kmer 5 --topN 20 -output_dir outputs
     - name: execute workflow script with example inputs (default)
-        python3 run_workflow.py -output_dir outputs
+        python3 run_VSigMatch.py -output_dir outputs
     
 
     
