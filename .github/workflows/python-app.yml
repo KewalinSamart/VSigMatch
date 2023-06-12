@@ -22,7 +22,7 @@ jobs:
     - name: Set up Python 3.11
       uses: actions/setup-python@v3
       with:
-        python-version: "3.11"
+        python-version: 3.11
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -30,10 +30,10 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: execute workflow script with all arguments
       run: | 
-        python3 run_VSigMatch.py --METAfastq inputs/sampled25_SRR23022001.fastq --kmer 5 --topN 20 -output_dir outputs
+        python3 run_VSigMatch.py --METAfastq 'inputs/sampled25_SRR23022001.fastq' --kmer 5 --topN 20 -output_dir 'outputs'
     - name: execute workflow script with example inputs (default)
       run: |
-        python3 run_VSigMatch.py -output_dir outputs
+        python3 run_VSigMatch.py -output_dir 'outputs'
     
 
     
