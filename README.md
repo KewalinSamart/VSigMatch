@@ -3,8 +3,7 @@
 This program aims to characterize viral communities present in the sample using an adapted kmer-signature-based and similairty approach.
 
 ## Description
-Given a metagenomics sample with short-read sequences in `.fastq` format, VSigMatch characterizes viral communities present in the sample using an adapted kmer-signature-based and similairty approach.
-........ **Go BACK TO THis**
+Given a metagenomics sample with short-read sequences in `.fastq` format, VSigMatch characterizes viral communities present in the sample using an adapted kmer-signature-based and similairty approach. First all the sequences in the sample are chopped up into substrings length of k (kmers). The set of sample kmers would then be compared against all the virus signatures in the processed database to get a vector of overall similarities. Based on kmer abundance in the sample and their presence in each virus signatures along with the similarity vector, VsigMatch score: weighted k-mer-abundance similarity is computed for every signature and used to prioritize the virus with high chances to be present in the sample.   
 
 ## Install dependencies
 ```
