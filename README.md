@@ -1,6 +1,6 @@
 # VSigMatch: Virus Signature Matching Tool
 ## Objective
-This program aims to characterize viral communities present in the sample using an adapted kmer-signature-based and similairty approach.
+This program aims to characterize viral communities present in a metagenomics sample using an adapted kmer-signature-based and similairty approach.
 
 ## Description
 ![workflow](https://github.com/KewalinSamart/VSigMatch/blob/main/supplemetary_figures/VSigmatch_workflow.png)
